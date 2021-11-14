@@ -1,0 +1,12 @@
+{
+  "name": "lab1_js",
+  "version": "1.0.0",
+  "description": "Page replacement algorythm (Clock)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mykyta Kanyka <nik2142ua@gmail.com>",
+  "license": "ISC"
+}
